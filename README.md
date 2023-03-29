@@ -15,6 +15,7 @@
 </div>
           
 ### My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true&theme=transparent"
@@ -25,5 +26,6 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true" />
+        
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+
