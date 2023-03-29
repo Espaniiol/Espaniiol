@@ -30,7 +30,7 @@
   <a href="https://youtube.com/mateussantana">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="[https://twitter.com/espaniiol](https://www.linkedin.com/in/guilherme-espaniol/)">
+  <a href="https://www.linkedin.com/in/guilherme-espaniol">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
