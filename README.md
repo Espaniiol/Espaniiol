@@ -14,4 +14,6 @@
           
 </div>
           
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+### My Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Espaniiol)](https://github.com/anuraghazra/github-readme-stats)
