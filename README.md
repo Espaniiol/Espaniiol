@@ -29,7 +29,7 @@
   <a herf="www.linkedin.com/in/gulherme-espaniol/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a herf="https://steamcommunity.com/profiles/76561199095721059/">
+  <a herf="https://steamcommunity.com/profiles/76561199095721059/ ">
    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>        
 </div>
