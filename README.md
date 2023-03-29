@@ -15,10 +15,10 @@
 </div>
           
 ### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true&theme=transparent"
+  srcset="https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
