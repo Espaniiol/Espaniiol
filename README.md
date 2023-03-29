@@ -26,3 +26,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
