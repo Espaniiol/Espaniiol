@@ -1,8 +1,5 @@
-### Hi there 👋
 
-- 🌱 I’m currently learning Js, Html e Css
-
-### Best technologies
+### Technologies
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" />         
