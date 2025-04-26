@@ -3,9 +3,9 @@
 
 <div>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="60" />         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"width="60" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"width="60" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"width="60" />         
+<img src="https://logodownload.org/wp-content/uploads/2014/04/oracle-logo-0.png"width="60" />          
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"width="60" />          
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkrSLhKFeQKiH8t9tnEcwETVzAHhlpJShmsw&s"width="60" />         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"width="60" />
           
 </div>
