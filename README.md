@@ -5,7 +5,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="60" />         
 <img src="https://logodownload.org/wp-content/uploads/2014/04/oracle-logo-0.png"width="60" />          
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"width="60" />          
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkrSLhKFeQKiH8t9tnEcwETVzAHhlpJShmsw&s"width="60" />         
+<img src="https://w7.pngwing.com/pngs/715/817/png-transparent-firebird-database-microsoft-sql-server-logo-logo-free-logo-area-sql.png"width="60" />         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"width="60" />
           
 </div>
