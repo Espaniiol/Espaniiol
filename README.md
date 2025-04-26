@@ -7,6 +7,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"width="60" />          
 <img src="https://www.firebirddevelopersday.com.br/fdd/2021/assets/img/preview/big-fdd-logo.png"width="60" />         
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg"width="60" />
+<img src="https://icon2.cleanpng.com/20180420/ggw/avtjis8a2.webp"width="60" />
           
 </div>
           
