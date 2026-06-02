@@ -26,7 +26,7 @@ Desenvolvedor @ ViaSoft · Análise e Desenvolvimento de Sistemas · UNIPAR-FB
       <sub><b>Oracle</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" width="48" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" /><br/>
       <sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" width="100">
