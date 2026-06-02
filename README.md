@@ -48,11 +48,9 @@ Desenvolvedor @ ViaSoft · Análise e Desenvolvimento de Sistemas · UNIPAR-FB
 
 <div align="center">
 
-[![GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats Light](https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
