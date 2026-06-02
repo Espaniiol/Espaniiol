@@ -48,9 +48,9 @@ Desenvolvedor @ ViaSoft · Análise e Desenvolvimento de Sistemas · UNIPAR-FB
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Espaniiol&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
 
