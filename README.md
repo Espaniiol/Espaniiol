@@ -3,7 +3,7 @@
 # Olá, eu sou o Guilherme 👋
 
 <a href="https://github.com/Espaniiol">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=480&lines=Desenvolvedor+na+ViaSoft;Java+%C2%B7+Oracle+%C2%B7+PostgreSQL+%C2%B7+Firebird;Estudante+de+ADS+na+UNIPAR-FB" alt="Desenvolvedor na ViaSoft · Java · Oracle · PostgreSQL · Firebird · Estudante de ADS na UNIPAR-FB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=580&lines=Desenvolvedor+na+ViaSoft;Java+%C2%B7+Delphi+%C2%B7+Oracle+%C2%B7+PostgreSQL;P%C3%B3s-graduando+em+Agentes+Inteligentes+%C2%B7+UTFPR" alt="Desenvolvedor na ViaSoft · Java · Delphi · Oracle · PostgreSQL · Pós-graduando em Agentes Inteligentes na UTFPR" />
 </a>
 
 ![Brasil](https://img.shields.io/badge/🇧🇷-Brasil-green?style=flat-square)
@@ -17,8 +17,9 @@
 ### 👨‍💻 Sobre mim
 
 - 💼 Desenvolvedor na **ViaSoft**
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **UNIPAR-FB**
-- 🗄️ Trabalho com **Java** e bancos de dados relacionais: **Oracle**, **PostgreSQL** e **Firebird**
+- 🤖 Cursando pós-graduação em **Desenvolvimento de Agentes Inteligentes** na **UTFPR**
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **UNIPAR-FB**
+- 🗄️ Trabalho com **Java**, **Delphi** e bancos de dados relacionais (**Oracle** e **PostgreSQL**)
 - 📫 O melhor jeito de falar comigo é pelo [LinkedIn](https://www.linkedin.com/in/guilherme-espaniol-schlickmann-a64653265)
 
 ---
@@ -42,8 +43,8 @@
       <sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="48" height="48" alt="Firebird" /><br/>
-      <sub><b>Firebird</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" width="48" height="48" alt="Delphi" /><br/>
+      <sub><b>Delphi</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" /><br/>
