@@ -59,18 +59,9 @@
 
 ### 📊 Estatísticas
 
-<div align="center">
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true&hide_border=true&locale=pt-br)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true&hide_border=true&theme=github_dark&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true&hide_border=true&theme=default&locale=pt-br" alt="Estatísticas do GitHub" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol&layout=compact&hide_border=true&theme=github_dark&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol&layout=compact&hide_border=true&theme=default&locale=pt-br" alt="Linguagens mais usadas" />
-</picture>
-
-</div>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol&layout=compact&hide_border=true&locale=pt-br)
 
 ---
 
