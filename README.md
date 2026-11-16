@@ -19,7 +19,7 @@
 - 💼 Desenvolvedor na **ViaSoft**
 - 🤖 Cursando pós-graduação em **Desenvolvimento de Agentes Inteligentes** na **UTFPR**
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **UNIPAR-FB**
-- 🗄️ Trabalho com **Java**, **Delphi** e bancos de dados relacionais (**Oracle** e **PostgreSQL**)
+- 🗄️ Trabalho com **Python**, **Delphi** e bancos de dados relacionais (**Oracle** e **PostgreSQL**)
 - 📫 O melhor jeito de falar comigo é pelo [LinkedIn](https://www.linkedin.com/in/guilherme-espaniol-schlickmann-a64653265)
 
 ---
