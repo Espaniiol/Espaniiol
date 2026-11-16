@@ -57,14 +57,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Espaniiol&show_icons=true&hide_border=true&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Espaniiol&layout=compact&hide_border=true&locale=pt-br)
-
----
-
 ### 📬 Contato
 
 <div align="center">
