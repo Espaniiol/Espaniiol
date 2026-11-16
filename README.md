@@ -31,8 +31,8 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg](https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="48" height="48" alt="Java" /><br/>
-      <sub><b>Java</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br />
+      <sub><b>Python</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" /><br/>
